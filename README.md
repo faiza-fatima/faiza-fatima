@@ -7,7 +7,7 @@
 
 <img align="right" alt="coding" width="400" src="https://github.com/faiza-fatima/faiza-fatima/assets/159861980/95edad64-8a6d-4cba-9d2f-d5b82f98a309">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=faiza-fatima&label=Profile%20views&color=0e75b6&style=flat" alt="faiza-fatima" /> </p>
 
 - 👨‍💻 All of my projects are available at www.linkedin.com/in/faiza-fatima-divewcoolecoder
 
