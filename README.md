@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faiza-fatima&label=Profile%20views&color=0e75b6&style=flat" alt="faiza-fatima" /> </p>
 
-- 👨‍💻 All of my projects are available at www.linkedin.com/in/faiza-fatima-divewcoolecoder
+- 👨‍💻 All of my projects are available at www.linkedin.com/in/faiza-fatima742
 
 - ⚡ Fun fact **I am funny😅**
 <h3 align="left">Connect with me:</h3>
@@ -23,5 +23,7 @@
 <p><a href="https://www.buymeacoffee.com/simplified"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="faiza-fatima" /></a></p><br><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faiza-fatima&show_icons=true&locale=en&layout=compact" alt="faiza-fatima" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faiza-fatima&show_icons=true&locale=en" alt="faiza-fatima" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faiza-fatima" alt="faiza-fatima" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faiza-fatima&date=${new Date().getTime()}" alt="Faiza Fatima's GitHub Streak Stats" />
+</p>
 
