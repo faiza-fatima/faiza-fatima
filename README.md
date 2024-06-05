@@ -1,4 +1,4 @@
-![FAIZA FATIMA.png)](https://github.com/faiza-fatima/faiza-fatima/assets/159861980/0f8c8586-9785-4b9a-a2ea-e251523c9230)
+![FAIZA FATIMA.png)]
 
 
 
