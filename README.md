@@ -24,6 +24,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faiza-fatima&show_icons=true&locale=en&layout=compact" alt="faiza-fatima" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faiza-fatima&show_icons=true&locale=en" alt="faiza-fatima" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faiza-fatima&show_icons=false&locale=en" alt="faiza-fatima" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faiza-fatima" alt="faiza-fatima" /></p>
 
