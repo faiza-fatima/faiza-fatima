@@ -1,4 +1,4 @@
-![FAIZA FATIMA3.png)](https://github.com/faiza-fatima/faiza-fatima/blob/main/FAIZA%20FATIMA%20(3).png)
+![FAIZA FATIMA.png)](https://github.com/faiza-fatima/faiza-fatima/blob/main/FAIZA%20FATIMA%20.png)
 
 
 
